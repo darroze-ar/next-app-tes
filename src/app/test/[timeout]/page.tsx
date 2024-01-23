@@ -1,5 +1,7 @@
 import Image from "next/image";
 
+export const maxDuration = 180;
+
 export default async function Page({
   params,
 }: {
